@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nazanin Faghih Mirzaei
-- 👀 I’m interested in Data science, Data Analytics and Machine learning
-- 🌱 I’m currently learning programming with both R and python
-- 📫 You can reach me by email : nazaniiin.faghih@gmail.com
+**👋 Hi, I’m Naz!**
+- 👩🏻‍💻 I am a data scientist who has worked on multiple NLP projects
+- 👩🏻‍🎓 I have a bachelors degree in engineering and a masters degree in biomedical research(stream in data science)
+- 🧠 I work on data science projects, using machine learning + deep learning methods to create predictive and classification models
 
 <!---
 NazaninFaghih/NazaninFaghih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
