@@ -1,7 +1,7 @@
 **👋 Hi, I’m Naz!**
-- 👩🏻‍💻 I am a data scientist who has worked on multiple NLP projects
+- 👩🏻‍💻 I am a data Scientist/Engineer who has worked on multiple NLP projects
 - 👩🏻‍🎓 I have a bachelors degree in engineering and a masters degree in biomedical research(stream in data science)
-- 🧠 I work on data science projects, using machine learning + deep learning methods to create predictive and classification models
+- 🧠 I have worked on data science projects, using machine learning + deep learning methods to create predictive and classification models
 
 
 **Contact me :**
